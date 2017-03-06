@@ -1,0 +1,10 @@
+digraph Lista_simple{
+subgraph cluster_1{
+	 node[style=filled,color=orange];
+	juan->als
+	als->alici
+	alici->0
+	0; 
+	 label = " Lista Simple " ;
+	 color=blue	}
+}
